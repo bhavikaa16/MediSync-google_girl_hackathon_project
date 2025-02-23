@@ -4,7 +4,7 @@ Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed f
 
 ![MEDUSA AI]()
 
-. 
+
 
 ## Vision
 
@@ -65,9 +65,7 @@ Analyze medical reports to generate comprehensive pathology reports.
 
 ![alt text](image-1.png)
 
-### 4. Medical Coding
 
-Upload medical documents and get suggested ICD medical codes with descriptions.
 
 
 
@@ -78,18 +76,9 @@ Upload user data images and calculate insurance risk percentages with detailed j
 
 ![Screenshot (163)](https://github.com/user-attachments/assets/635d753f-e61d-4d3c-872a-e5cbb9464b26)
 
-### 6. Treatment and Diet Plan Generator
 
-Generate personalized treatment and diet plans based on patient data.
 
-![Screenshot (164)](https://github.com/user-attachments/assets/2b463f49-6609-4d3f-8f48-98e6c48a7834)
 
-## Installation and Setup
-
-1. **Clone the repository:**
-    ```sh
-    git clone https://github.com/your-repo/medusa-ai.git
-    cd medusa-ai
     ```
 
 2. **Install the dependencies:**
@@ -122,11 +111,7 @@ Select the desired module from the navigation menu at the top of the page.
 4. **Download Report:** Save the analysis as a PDF report.
 5. **Related Research Papers:** View related research papers based on the analysis.
 
-### Medical Transcription
 
-1. **Upload Prescription:** Choose a medical prescription image to upload.
-2. **Enter Prompt:** Use the default prompt or enter a custom prompt.
-3. **Get Transcription:** Click to transcribe the prescription into a tabular format.
 
 ### Medical Pathology Diagnostics
 
@@ -134,11 +119,7 @@ Select the desired module from the navigation menu at the top of the page.
 2. **Enter Prompt:** Use the default prompt or enter a custom prompt.
 3. **Analyze Report:** Click to generate a comprehensive pathology report.
 
-### Medical Coding
 
-1. **Upload Medical Document:** Choose a medical document image to upload.
-2. **Enter Prompt:** Use the default prompt or enter a custom prompt.
-3. **Get ICD Codes:** Click to get suggested ICD medical codes with descriptions.
 
 ### Insurance Risk Analysis
 
@@ -146,11 +127,7 @@ Select the desired module from the navigation menu at the top of the page.
 2. **Enter Prompt:** Use the default prompt or enter a custom prompt.
 3. **Analyze Risk:** Click to calculate the insurance risk percentage and get a detailed justification.
 
-### Treatment and Diet Plan Generator
 
-1. **Upload Patient Data Image:** Choose an image containing patient data to upload.
-2. **Enter Prompt:** Use the default prompt or enter a custom prompt.
-3. **Generate Plan:** Click to generate personalized treatment and diet plans.
 
 ## Additional Features
 
