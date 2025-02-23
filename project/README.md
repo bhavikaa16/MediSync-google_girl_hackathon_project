@@ -1,8 +1,14 @@
-# MEDUSA AI: Medical Diagnostic Unified System Assistant
+# MEDISYNC - Medical Diagnostic Unified System Assistant 🏥
 
-Welcome to **MEDUSA AI**, a comprehensive medical diagnostic assistant designed to simplify and enhance the workflow of healthcare professionals. This README will guide you through the features and functionalities of this application, providing you with everything you need to start using MEDUSA AI effectively.
+Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed to simplify and enhance the workflow of healthcare professionals. This README will guide you through the features and functionalities of this application, providing you with everything you need to start using MEDISYNC  effectively.
 
 ![MEDUSA AI](https://media0.giphy.com/media/dXEP7pHwmGRgNa0Qhu/giphy.webp?cid=ecf05e47l6hasy2f95aa1jzoxvem3hxtylwdrhjuusu48ptj&ep=v1_gifs_search&rid=giphy.webp&ct=s)
+
+MEDISYNC is a groundbreaking medical diagnostic platform designed to transform healthcare diagnostics and decision-making through the integration of artificial intelligence. This innovative system combines various diagnostic tools into a cohesive, user-friendly interface, making advanced medical analysis accessible to healthcare professionals worldwide.
+
+## Vision
+
+Our vision is to democratize access to advanced medical diagnostics by creating an integrated platform that merges imaging analysis, pathology diagnostics, and risk assessment tools. This initiative aims to enhance patient care and improve medical decision-making processes.
 
 ## Key Features
 
