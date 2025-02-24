@@ -4,7 +4,7 @@ Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed f
 
 
 ![alt text](project\image-6.png)
- - ** LOGO **
+   LOGO
 
 ## Vision
 
