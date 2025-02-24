@@ -1,5 +1,10 @@
 # MEDISYNC - Medical Diagnostic Unified System Assistant 🏥
 
+![alt text](image-5.png)
+ - ** LOGO **
+
+
+
 Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed for the GOOGLE GIRLS' HACKATHON, to simplify and enhance the workflow of healthcare professionals.This innovative system combines various diagnostic tools into a cohesive, user-friendly interface, making advanced medical analysis accessible to healthcare professionals worldwide. This README will guide you through the features and functionalities of this application, providing you with everything you need to start using MEDISYNC  effectively.
 
 
@@ -93,12 +98,12 @@ Upload user data images and calculate insurance risk percentages with detailed j
 
 
 
- **Install the dependencies:**
+ ## Install the dependencies:##
     ```sh
     pip install -r requirements.txt
     ```
 
- **Set up environment variables:**
+ ## Set up environment variables:##
     - Create a `.env` file in the root directory and add your Google API key.
     ```env
     GOOGLE_API_KEY=your_google_api_key
