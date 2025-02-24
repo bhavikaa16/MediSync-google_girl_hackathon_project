@@ -93,14 +93,12 @@ Upload user data images and calculate insurance risk percentages with detailed j
 
 
 
-    ```
-
-2. **Install the dependencies:**
+ **Install the dependencies:**
     ```sh
     pip install -r requirements.txt
     ```
 
-3. **Set up environment variables:**
+ **Set up environment variables:**
     - Create a `.env` file in the root directory and add your Google API key.
     ```env
     GOOGLE_API_KEY=your_google_api_key
