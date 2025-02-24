@@ -1,7 +1,7 @@
 # MEDISYNC - Medical Diagnostic Unified System Assistant 🏥
 
 ![alt text](image-6.png)
- - ** LOGO **
+  LOGO 
 
 
 

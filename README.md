@@ -3,7 +3,7 @@
 Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed for the GOOGLE GIRLS' HACKATHON, to simplify and enhance the workflow of healthcare professionals.This innovative system combines various diagnostic tools into a cohesive, user-friendly interface, making advanced medical analysis accessible to healthcare professionals worldwide. This README will guide you through the features and functionalities of this application, providing you with everything you need to start using MEDISYNC  effectively.
 
 
-![alt text](project\image-6.png)
+![alt text](image-6.png)
    LOGO
 
 ## Vision
@@ -43,7 +43,7 @@ Automated analysis of X-rays, MRIs, and CT scans
      - Processes images before AI analysis<br>
 
 Upload medical images and receive detailed analyses. The tool supports multiple image formats (JPG, JPEG, PNG).
-![alt text](project\image.png)
+![alt text](image.png)
 
 
 
