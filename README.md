@@ -1,12 +1,12 @@
 # MEDISYNC - Medical Diagnostic Unified System Assistant 🏥
 
-Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed for the GOOGLE GIRLS' HACKATHON, to simplify and enhance the workflow of healthcare professionals.This innovative system combines various diagnostic tools into a cohesive, user-friendly interface, making advanced medical analysis accessible to healthcare professionals worldwide. This README will guide you through the features and functionalities of this application, providing you with everything you need to start using MEDISYNC  effectively.
+Welcome to **MEDISYNC**, a comprehensive medical diagnostic assistant designed for the GOOGLE GIRL HACKATHON, to simplify and enhance the workflow of healthcare professionals.This innovative system combines various diagnostic tools into a cohesive, user-friendly interface, making advanced medical analysis accessible to healthcare professionals worldwide. This README will guide you through the features and functionalities of this application, providing you with everything you need to start using MEDISYNC  effectively.
 
 
 ![alt text](image-6.png)
    LOGO
 
-## Vision
+## 🎯 Vision
 
 Our vision is to democratize access to advanced medical diagnostics by creating an integrated platform that merges imaging analysis, pathology diagnostics, and risk assessment tools. This initiative aims to enhance patient care and improve medical decision-making processes.
 
@@ -47,7 +47,7 @@ Upload medical images and receive detailed analyses. The tool supports multiple 
 
 
 
-### 2. Medical Pathology Diagnostics
+###  Medical Pathology Diagnostics
  - **User Interface Features:**<br>
      - Two-column layout<br>
      - Progress indicators <br>
@@ -70,7 +70,7 @@ Analyze medical reports to generate comprehensive pathology reports.
 
 
 
-### 5. Insurance Risk Analysis
+###  Insurance Risk Analysis
 
 - **Image Upload Functionality**<br>
 - Accepts user data images in JPG, JPEG, and PNG formats<br>
@@ -87,18 +87,18 @@ Upload user data images and calculate insurance risk percentages with detailed j
 ![alt text](image-2.png)
 
 
-#### Performance Metrices ####
+####💡 Performance Metrices ####
 ![alt text](image-4.png)
 
 
 
 
- ## Install the dependencies:##
+ ## Install the dependencies: 
     ```sh
     pip install -r requirements.txt
     ```
 
- ## Set up environment variables:##
+ ## Set up environment variables: 
     - Create a `.env` file in the root directory and add your Google API key.
     ```env
     GOOGLE_API_KEY=your_google_api_key
